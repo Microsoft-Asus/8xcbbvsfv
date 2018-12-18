@@ -1,0 +1,287 @@
+comptia advanced security practitioner casp cas 002 cert guide by robin abernathy troy mcmillan
+ccna icnd2 study guide third edition by todd lammle
+comptia server study guide exam sk0 004 by troy mcmillan
+network security with openssl cryptography for secure communications by john viega matt messier pravir chandra
+comptia security study guide exam sy0 501 by emmett dulaney chuck easttom
+exam ref 70 761 querying data with transact sql by itzik ben gan
+comptia it fundamentals study guide exam fc0 u51 by quentin docter
+ceh certified ethical hacker all in one exam guide third edition oracle press by matt walker
+python 2nd edition learn python in one day and learn it well python for beginners with hands on project learn coding fast with hands on project book 1 by lcf publishing jamie chan
+an introduction to statistical learning with applications in r springer texts in statistics by gareth james daniela witten trevor hastie robert tibshirani
+make your own neural network by tariq rashid
+hands on machine learning with scikit learn and tensorflow concepts tools and techniques to build intelligent systems by aurelien geron
+the shallows what the internet is doing to our brains by nicholas carr
+make your own neural network an in depth visual introduction for beginners by michael taylor
+the lego mindstorms ev3 idea book 181 simple machines and clever contraptions by yoshihito isogawa
+introduction to algorithms by thomas h cormen charles e leiserson ronald l rivest clifford stein
+make electronics learning through discovery by charles platt
+algorithms to live by the computer science of human decisions by brian christian tom griffiths
+grokking algorithms an illustrated guide for programmers and other curious people by aditya bhargava
+design patterns elements of reusable object oriented software by erich gamma richard helm ralph johnson john vlissides
+a mind at play how claude shannon invented the information age by jimmy soni
+the second machine age work progress and prosperity in a time of brilliant technologies by erik brynjolfsson andrew mcafee
+barrons ap computer science a 7th edition by roselyn teukolsky
+hacking the art of exploitation by jon erickson
+algorithms illuminated part 1 the basics by tim roughgarden
+the future of leadership rise of automation robotics and artificial intelligence by brigette tasha hyacinth
+computer science distilled learn the art of solving computational problems by wladston ferreira filho
+the naked sun the robot series book 2 by isaac asimov
+fluent python by luciano ramalho
+machine learning with boosting a beginners guide by scott hartshorn
+what to do when machines do everything how to getahead in a world of ai algorithms bots and big data by malcolm frank paul roehrig ben pring
+site reliability engineering how google runs production systems by betsy beyer jennifer petoff chris jones niall richard murphy
+the mythical man month essays on software engineering anniversary edition by frederick p brooks jr
+the black swan second edition the impact of the highly improbable with a new section on robustness and fragility incerto by nassim nicholas taleb ph d mba
+the robots of dawn the robot series book 3 by isaac asimov
+the master algorithm how the quest for the ultimate learning machine will remake our world by pedro domingos
+pattern recognition and machine learning information science and statistics by christopher m bishop
+head first design patterns by eric freeman elisabeth robson bert bates kathy sierra
+elements of programming interviews in python the insiders guide by adnan aziz tsung hsien lee amit prakash
+the mythical man month essays on software engineering anniversary edition by frederick p brooks jr
+how to create a mind the secret of human thought revealed by ray kurzweil phd
+disconnected how to reconnect our digitally distracted kids by tom kersting
+robot proof higher education in the age of artificial intelligence mit press by joseph e aoun
+effective modern c 42 specific ways to improve your use of c 11 and c 14 by scott meyers
+bored and brilliant how spacing out can unlock your most productive and creative self international edition by manoush zomorodi
+the algorithm design manual by steven s skiena
+python machine learning machine learning and deep learning with python scikit learn and tensorflow 2nd edition by sebastian raschka vahid mirjalili
+domain driven design tackling complexity in the heart of software by eric evans
+computer science principles the foundational concepts of computer science by kevin hare
+computer science distilled learn the art of solving computational problems by wladston ferreira filho
+introduction to machine learning with python by sarah guido andreas c mueller
+designing data intensive applications the big ideas behind reliable scalable and maintainable systems by martin kleppmann
+r for data science by garrett grolemund hadley wickham
+dont make me think revisited a common sense approach to web usability voices that matter by steve krug
+data science from scratch first principles with python by joel grus
+blockchain the ultimate guide to the world of blockchain technology bitcoin ethereum cryptocurrency smart contracts by ikuya takashima
+practical statistics for data scientists 50 essential concepts by peter bruce andrew bruce
+data analytics made accessible 2017 edition by anil maheshwari
+sql in 10 minutes sams teach yourself by ben forta
+blockchain for dummies for dummies computers by tiana laurence
+access 2016 bible by michael alexander richard kusleika
+vegan instant pot cookbook 250 amazing vegan diet recipes by vincent brian
+sql queries for mere mortals a hands on guide to data manipulation in sql by john l viescas michael j hernandez
+sql the ultimate guide from beginner to expert learn and master sql in no time 2017 edition by peter adams
+power pivot and power bi the excel users guide to dax power query power bi power pivot in excel 2010 2016 by rob collie
+access 2016 for dummies access for dummies by laurie ulrich fuller ken cook
+hadoop the definitive guide by tom white
+sql quickstart guide the simplified beginners guide to sql by clydebank technology
+learning web design a beginners guide to html css javascript and web graphics by jennifer niederst robbins
+sql cookbook cookbooks oreilly by anthony molinaro
+practical statistics for data scientists 50 essential concepts by peter bruce andrew bruce
+python machine learning 1st edition by sebastian raschka
+deep learning a practitioners approach by adam gibson josh patterson
+numsense data science for the layman no math added by annalyn ng kenneth soo
+learn php and mysql with ajax in a weekend by blerton abazi
+excel conditional formatting tips you can use immediately to make your data stand out data analysis with excel book 3 by scott hartshorn
+the business blockchain promise practice and application of the next internet technology by william mougayar
+python data science handbook tools and techniques for developers by jake vanderplas
+fundamentals of deep learning designing next generation artificial intelligence algorithms by nikhil buduma
+amazon web services in action by andreas wittig michael wittig
+problem solving cases in microsoft access and excel by ellen monk
+show me the numbers by stephen few
+java 8 in action lambdas streams and functional style programming by raoul gabriel urma mario fusco alan mycroft
+learning php mysql javascript with jquery css html5 learning php mysql javascript css html5 by robin nixon
+kafka the definitive guide by neha narkhede gwen shapira todd palino
+power pivot and power bi the excel users guide to dax power query power bi power pivot in excel 2010 2016 by rob collie avichal singh
+learning r a step by step function guide to data analysis by richard cotton
+r cookbook oreilly cookbooks by paul teetor
+blockchain basics a non technical introduction in 25 steps by daniel drescher
+postgresql up and running a practical guide to the advanced open source database by regina o obe leo s hsu
+practical object oriented design in ruby an agile primer addison wesley professional ruby by sandi metz
+access 2016 bible by michael alexander richard kusleika
+data strategy how to profit from a world of big data analytics and the internet of things by bernard marr
+sql the one microsoft sql server interview guide by uday arumilli
+learning sql by alan beaulieu
+information dashboard design by stephen few
+data analysis using sql and excel 2nd edition by gordon s linoff
+advanced analytics with spark patterns for learning from data at scale by sandy ryza uri laserson sean owen josh wills
+modern database management by jeffrey a hoffer ramesh venkataraman heikki topi
+the algorithm design manual by steven s skiena
+the business blockchain promise practice and application of the next internet technology by william mougayar
+think stats by allen b downey
+hands on programming with r write your own functions and simulations by garrett grolemund
+high performance spark best practices for scaling and optimizing apache spark by holden karau rachel warren
+effective sql 61 specific ways to write better sql effective software development by john l viescas douglas j steele ben g clothier tom wickerath
+machine learning with r second edition expert techniques for predictive modeling to solve all your data analysis problems by brett lantz
+sql all in one for dummies 2nd edition by allen g taylor
+amazon echo amazon echo 2nd generation user guide 2017 updated step by step instructions to enrich your smart life alexa dot echo amazon echo dot echo dot user manual echo volume 3 by steve wright
+amazon alexa ultimate user guide 2017 for amazon echo echo dot amazon tap 500 secret easter eggs included by quentin delaoutre
+adobe illustrator cc classroom in a book 2017 release classroom in a book adobe by brian wood
+macos sierra the missing manual the book that should have been in the box by david pogue
+amazon alexa ultimate user guide 2017 for amazon echo echo dot amazon tap 500 secret easter eggs included by quentin delaoutre
+my ipad for seniors by michael miller
+youtube channels for dummies by rob ciampa theresa moore john carucci stan muller adam wescott
+adobe indesign cc classroom in a book 2017 release classroom in a book adobe by kelly kordes anton john cruise
+liminal thinking create the change you want by changing the way you think by dave gray
+photoshop a step by step ultimate beginners rsquo guide to mastering adobe photoshop in 1 week graphic design digital photography and photo editing tips photoshop adobe photoshop graphic design by john slavio
+understanding snapchat by eli crandall
+adobe illustrator cc 2017 introduction quick reference guide cheat sheet of instructions tips shortcuts laminated card by beezix inc
+significant zero heroes villains and the fight for art and soul in video games by walt williams
+choose your own story the minecraft zombie adventure by john diary
+assassins creed origins collectors edition by prima games
+elder scrolls v skyrim atlas prima official guide by david hodgson
+the legend of zelda breath of the wild the complete official guide by
+amazing pokemon math cool math activity book for pokemon go fans math activity books by osie publishing
+ultimate minecraft secrets an unofficial guide to minecraft secrets tips tricks and hints that you may not know ultimate minecraft guide books book 1 by zack zombie books
+undertale drawing guide learn to draw all of your favorite characters sans payprus frisk and even a super secret bonus character by sans
+hearthstone innkeepers tavern cookbook by chelsea monroe cassel
+how to draw five nights at freddys fnaf drawing guide by animatronics group
+ultimate minecraft secrets an unofficial guide to minecraft tips tricks and hints you may not know by zack zombie books
+five nights at freddys coloring book color all your favorite characters by alex smith
+roblox game download hacks studio login guide unofficial by chala dar
+diary of steve the noob 5 an unofficial minecraft book diary of steve the noob collection by steve the noob
+the legend of zelda breath of the wild the complete official guide by
+coloring book for minecrafters math coloring book calculate and color squares volume 1 unofficial minecraft coloring book by matt blocker math coloring book
+unofficial minecraft lab for kids family friendly projects for exploring and teaching math science history and culture through creative building hands on family by john miller chris scott
+super mario odyssey kingdom adventures vol 1 by doug walsh
+official overwatch 2018 wall calendar by browntrout publishers
+slither io the unofficial underground tips secrets guide by the gamer geeks
+playing with super power nintendo super nes classics collectors edition by playing with super power nintendo super nes classics sebastian haley meagan marie prima games
+dk reader level 2 wwe john cena second edition dk readers level 2 by bradygames
+fallout 4 vault dwellers survival guide by david hodgson nick von esmarch
+diary of steve the noob 4 an unofficial minecraft book diary of steve the noob collection by steve the noob
+horizon zero dawn collectors edition strategy guide by future press
+l a noire 2017 remaster by prima games
+destiny the official coloring book by bungie
+learning python by mark lutz
+assassins creed origins by prima games
+slither io game guide by rrr appmonkey
+undertale sans big book of jokes for kids dozens of rib ticklers from your favorite skeleton and all the other undertale characters the perfect birthday gift or christmas present for any fan by sans
+pokemon sun and pokemon moon official strategy guide by pokemon company international
+game programming patterns by robert nystrom
+console wars sega nintendo and the battle that defined a generation by blake j harris
+invent your own computer games with python 4e by al sweigart
+wwe ultimate superstar guide bradygames by steven pantaleo
+final fantasy xii the zodiac age collectors guide by prima games
+the art of game design a book of lenses second edition by jesse schell
+beginning c through game programming by michael dawson
+marijuana growers handbook by ed rosenthal
+the sketchnote handbook the illustrated guide to visual note taking by mike rohde
+to engineer is human the role of failure in successful design by henry petroski
+100 things every designer needs to know about people voices that matter by susan weinschenk
+ux strategy how to devise innovative digital products that people want by jaime levy
+slide ology the art and science of creating great presentations the art and science of presentation design by nancy duarte
+product roadmaps relaunched how to set direction while embracing uncertainty by c todd lombardo bruce mccarthy evan ryan michael connors
+theory of fun for game design by raph koster
+ggplot2 elegant graphics for data analysis use r by hadley wickham
+hamshack raspberry pi how to use the raspberry pi for amateur radio activities by james baughn k9e0h
+mapping experiences a complete guide to creating value through journeys blueprints and diagrams by james kalbach
+game engine architecture second edition by jason gregory
+the sketchnote workbook advanced techniques for taking visual notes you can use anywhere by mike rohde
+okami official complete works by capcom
+theory of fun for game design by raph koster
+lean ux designing great products with agile teams by jeff gothelf josh seiden
+beautiful evidence by edward r tufte
+you are not a gadget a manifesto by jaron lanier
+lean ux 2e by jeff gothelf josh seden
+getting to know arcgis by michael law amy collins
+creative collaborations how to form lasting and lucrative partnerships without being smarmy by kirsten oliphant
+mapping experiences a guide to creating value through journeys blueprints and diagrams by james kalbach
+create stunning journals workbooks using canva createspace by sarah lentz
+photoshop elements 14 for dummies for dummies computer tech by barbara obermeier ted padova
+interviewing users how to uncover compelling insights by steve portigal
+100 things every designer needs to know about people voices that matter by susan weinschenk
+ciencia de la oracin la the science of prayer by yiye avila
+css secrets better solutions to everyday web design problems by lea verou
+learning blender a hands on guide to creating 3d animated characters by oliver villar
+os x yosemite the missing manual missing manuals by david pogue
+adobe premiere pro cc classroom in a book 2017 release classroom in a book adobe by maxim jago
+liminal thinking create the change you want by changing the way you think by dave gray richard saul wurman foreword
+make getting started with processing a hands on introduction to making interactive graphics by casey reas ben fry
+amazon echo dot a complete user guide 2017 edition by stephen lovely
+clean architecture a craftsmans guide to software structure and design robert c martin by robert c martin
+20 makey makey projects for the evil genius by aaron graves colleen graves
+teach yourself visually iphone 8 iphone 8 plus and iphone x teach yourself visually tech by guy hart davis
+programming the raspberry pi second edition getting started with python by simon monk
+kindle fire hd 8 10 user guide the complete user guide with step by step instructions master your kindle fire hd 8 10 in 1 hour by jennifer n smith
+exploring raspberry pi by derek molloy
+arduino for dummies by john nussey
+raspberry pi 3 beginner to pro ndash step by step guide raspberry pi 3 2016 by timothy short
+all new fire hd 8 10 user guide newbie to expert in 2 hours by tom edwards jenna edwards
+teach yourself visually iphone 8 iphone 8 plus and iphone x teach yourself visually tech by guy hart davis
+building microservices designing fine grained systems by sam newman
+macbook fd 6e for dummies computers by mark l chambers
+kindle fire hd user guide manual how to get the most out of your kindle device in 30 minutes with essential tips tutorials nov 2017 by jake jacobs
+raspberry pi 3 beginner to pro ndash step by step guide raspberry pi 3 2016 by timothy short
+the art of invisibility the worlds most famous hacker teaches you how to be safe in the age of big brother and big data by kevin mitnick robert vamosi
+exploring arduino by jeremy blum
+make getting started with littlebits prototyping and inventing with modular electronics by ayah bdeir matt richardson
+make paper inventions machines that move drawings that light up and wearables and structures you can cut fold and roll by kathy ceceri
+low level programming c assembly and program execution on intel 64 architecture by igor zhirkov
+motors for makers a guide to steppers servos and other electrical machines by matthew scarpino
+chromebook for dummies for dummies computers by mark lafay
+spare parts four undocumented teenagers one ugly robot and the battle for the american dream by joshua davis
+kubernetes up and running dive into the future of infrastructure by kelsey hightower
+raspberry pi step by step guide from beginner to advanced raspberry pi 3 python programming by leonard eddison
+robotics everything you need to know about robotics from beginner to expert by peter mckinnon
+diy drones for the evil genius design build and customize your own drones by ian cinnamon romi kadri fitz tepper
+winning design lego mindstorms ev3 design patterns for fun and competition by james jeffrey trobaugh
+amazon echo user guide newbie to expert in 1 hour by tom edwards
+amazon echo show user guide newbie to expert in 1 hour echo alexa by tom edwards jenna edwards
+getting started with 3d carving by zach kaplan
+elements of computing systems building a modern computer from first principles the elements of computing systems by noam nisan shimon schocken
+the arduino project handbook 25 illustrated projects for the complete beginner by mark geddes
+amazon echo show the complete user guide learn to use your echo show like a pro by cj andersen
+rise of the robots technology and the threat of a jobless future by martin ford
+how to watch tv without cable a complete guide to streaming free over the air tv by stephen lovely
+robot builders bonanza 4th edition by gordon mccomb
+go in practice includes 70 techniques by matt butcher matt farina
+the american sign language phrase book with dvd by barbara bernstein fant lou fant
+raspberry pi user guide by eben upton gareth halfacree
+cryptocurrency the ultimate guide to the world of cryptocurrency and how i became a crypto millionaire in 6 months bitcoin cryptocurrency and blockchain book by neil hoffman
+ghost in the wires my adventures as the world rsquo s most wanted hacker by kevin mitnick william l simon
+digital gold bitcoin and the inside story of the misfits and millionaires trying to reinvent money by nathaniel popper
+blockchain ultimate guide to understanding blockchain bitcoin cryptocurrencies smart contracts and the future of money by mark gates
+the friendly orange glow the untold story of the plato system and the dawn of cyberculture by brian dear
+cryptocurrency beginners bible how you can make money trading and investing in cryptocurrency like bitcoin ethereum and altcoins bitcoin cryptocurrency and blockchain book 1 by stephen satoshi
+tor and the dark art of anonymity deep web kali linux hacking bitcoins defeat nsa spying by lance henderson
+alan turing the enigma the book that inspired the film the imitation game by andrew hodges
+blockchain ultimate guide to understanding blockchain bitcoin cryptocurrencies smart contracts and the future of money by mark gates
+alibaba the house that jack ma built by duncan clark
+countdown to zero day stuxnet and the launch of the worlds first digital weapon by kim zetter
+bitcoin for dummies by prypto
+data and goliath the hidden battles to collect your data and control your world by bruce schneier
+blockchain everything you need to know about blockchain technology and how it works bitcoin mining investing trading cryptocurrencies blockchain business blockchain for dummies by neil hoffman
+cryptocurrency the basics of bitcoin ethereum and blockchain by k connors
+hatching twitter a true story of money power friendship and betrayal by nick bilton
+cryptocurrency how i turned 400 into 100 000 by trading cryptocurrency for 6 months crypto trading secrets by chris lambert
+alibaba the house that jack ma built by duncan clark
+the cuckoos egg tracking a spy through the maze of computer espionage by cliff stoll
+poc or gtfo by manul laphroaig
+the innovators how a group of inventors hackers geniuses and geeks created the digital revolution by to be announced walter isaacson
+ethereum the insider guide to blockchain technology cryptocurrency and mining ethereum by richard ozer
+the dark net inside the digital underworld by jamie bartlett
+los innovadores los genios que inventaron el futuro by walter isaacson
+bitcoin why you shouldnt ignore the hype by josef l ramires
+digital gold bitcoin and the inside story of the misfits and millionaires trying to reinvent money by nathaniel popper
+hacking computer hacking beginners guide how to hack wireless network basic security and penetration testing kali linux your first hack by alan t norman
+the personal internet address password logbook red by peter pauper press
+kill all normies online culture wars from 4chan and tumblr to trump and the alt right by angela nagle
+hacking the underground guide to computer hacking including wireless networks security windows kali linux and penetration testing by abraham k white
+step by step wordpress for beginners how to build a beautiful website on your own domain from scratch video course included by mike taylor
+social engineering the art of human hacking by christopher hadnagy paul wilson foreword
+twitter and tear gas the power and fragility of networked protest by zeynep tufekci
+wordpress for beginners 2017 a visual step by step guide to mastering wordpress webmaster series by dr andy williams
+how to make money blogging how i replaced my day job with my blog by bob lotich
+hash crack password cracking manual v2 0 by joshua picolet
+javascript the definitive guide definitive guides by david flanagan
+blogging getting to 2 000 a month in 90 days blogging for profit by isaac kronenberg
+ultimate guide to local business marketing by perry marshall talor zamir
+black hat python python programming for hackers and pentesters by justin seitz
+make money blogging proven strategies to make money online while you work from home by joseph hogue
+step by step wordpress for beginners how to build a beautiful website on your own domain from scratch video course included by mike taylor
+ecommerce evolved the essential playbook to build grow scale a successful ecommerce business by tanner larsson
+all new fire hd 8 10 user guide newbie to expert in 2 hours by tom edwards jenna edwards
+iphone for seniors for dummies 6th edition for dummies computers by dwight spivey
+iphone 8 guide the ultimate guide to iphone8 and iphone 8 plus by thomas rudderham
+help me guide to ios 11 step by step user guide for apples eleventh generation os on the iphone ipad and ipod touch by charles hughes
+ipad for seniors for dummies for dummies computer tech by jesse feiler
+teach yourself visually iphone 7 covers ios 10 and all models of iphone 6 and 7 teach yourself visually tech by guy hart davis
+ios 11 programming fundamentals with swift by matt neuberg
+coding iphone apps for kids by gloria winquist matt mccarthy
+ios programming the big nerd ranch guide big nerd ranch guides by christian keur aaron hillegass
+beginners guide to ios 11 app development using swift 4 xcode swift and app design fundamentals by serhan yamacli
+android programming the big nerd ranch guide big nerd ranch guides by bill phillips chris stewart kristin marsicano
+kindle fire owners manual ultimate guide to the kindle fire beginners user guide user guide how to hints tips and tricks by ethan sanders
+all new fire 7 user guide newbie to expert in 2 hours the essential guide to amazons incredible 49 99 tablet by tom edwards jenna edwards
